@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_people_24"/>
+
+    <item android:title="Giáo trình"
+        android:id="@+id/list1"
+        android:icon="@drawable/ic_baseline_view_list_24"/>
+    <item android:title="Luật"
+        android:id="@+id/list2"
+        android:icon="@drawable/ic_baseline_view_list_24"/>
+    <item android:title="Truyện"
+        android:id="@+id/list3"
+        android:icon="@drawable/ic_baseline_view_list_24"/>
+    <item android:title="SignIn"
+        android:id="@+id/dangnhap"
+        android:icon="@drawable/ic_baseline_lock_open_24"/>
+</menu>
